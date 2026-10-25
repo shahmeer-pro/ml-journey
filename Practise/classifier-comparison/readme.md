@@ -28,9 +28,9 @@ The models were evaluated using the same held-out test set. Metrics included acc
 
 | Model | Accuracy | Malignant Precision | Malignant Recall | Malignant F1 |
 |---|---|---|---|---|
-| Gaussian Naive Bayes | [Your result] | [Your result] | [Your result] | [Your result] |
-| Logistic Regression | [Your result] | [Your result] | [Your result] | [Your result] |
-| Linear SVM | [Your result] | [Your result] | [Your result] | [Your result] |
+| Gaussian Naive Bayes | [0.9298] | [0.9048] | [0.9048] | [0.9048] |
+| Logistic Regression | [0.9737] | [0.9535] | [0.9762] | [0.9647] |
+| Linear SVM | [0.9561] | [1.0000] | [0.8810] | [0.9367] |
 
 ## 5. Discussion
 
